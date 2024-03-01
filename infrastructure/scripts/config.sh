@@ -1,1 +1,1 @@
-environment=$(git branch --environment)
+environment=$(git branch --show-current)
